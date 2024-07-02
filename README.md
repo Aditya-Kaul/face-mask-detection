@@ -1,5 +1,3 @@
-# face-mask-detection
-Face Mask Detection Using Deep Learning
 # Face Mask Detection Using Deep Learning
 
 ## Project Overview
