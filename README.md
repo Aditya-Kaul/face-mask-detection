@@ -28,4 +28,7 @@ I also trained the model using High-Performance Computing (HPC) infrastructure w
 
 4. **Results:**
    - The system accurately detects mask usage, showing promising results for real-world applications.
+![alt text](imgs/ss_1.png)  ![alt text](imgs/ss_3.png)
+![alt text](imgs/ss_2.png)
+
 
